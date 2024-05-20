@@ -11,6 +11,7 @@ Things I like:
  * 🍕 Pizza
  * 🐈 Cats
  * 🎮 Games
+ * 🖥️ Generally modding/tinkering with tech
  * ⌨️ Open source projects :D
 
 And that's about it cya
