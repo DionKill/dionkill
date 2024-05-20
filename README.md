@@ -1,5 +1,4 @@
 <h1>Hello!</h1>
-***
 Dion here.
 
 I don't know what to write here, I'm not good with introductions...
