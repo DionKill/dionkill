@@ -11,7 +11,7 @@ Things I like:
  * 🐈 Cats
  * 🎮 Games
  * 🖥️ Generally modding/tinkering with tech
- * ✅ Privacy. It's a lot that I'm putting my real name on here for Uni...
+ * ✅ Privacy. It's a lot that I'm putting my real name on here for university...
  * ⌨️ Open source projects :D
 ***
 ## Anything about your repos?
