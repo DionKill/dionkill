@@ -15,6 +15,6 @@ Things I like:
  * ⌨️ Open source projects :D
 ***
 ## Anything about your repos?
-For now I've only been cloning repos and doing similar stuff, mostly for personal projects. None of them have been completed however (bruh).
+Yes! The times of cloning repos and then abandoning them is over. I've made SOME functional stuff, you can take a look at the pinned repos to get an idea!
 
 And that's about it cya
